@@ -1,0 +1,80 @@
+---
+title: 'Combining Data-driven and Knowledge-guided Methods to Induce Interpretable Physiological Models'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - Pat Langley
+  - admin
+
+# # Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+
+date: '2011-03-30'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['1']
+
+# Publication name and optional abbreviated publication name.
+publication: In *AAAI 2011 Spring Symposium on Computational Physiology*
+publication_short: AAAI Spring Symposium
+
+abstract: "In this paper, we review the paradigm of inductive process modeling and examine its application to human physiology. This framework represents models as a set of interacting processes, each with associated differential or algebraic equations that express causal relations among variables. Simulating such a quantitative process model produces trajectories for variables over time that one can compare to observations. Background knowledge about candidate processes enables search through the space of model structures and their associated parameters, and thus identify quantitative models that explain time-series data. We present an initial process model for aspects of human physiology, consider its uses for health monitoring, and discuss the induction of such models. In closing, we consider related efforts on physiological modeling and our plans for collecting data to evaluate our framework in this domain."
+
+
+
+# Summary. An optional shortened abstract.
+summary: "We review the paradigm of inductive process modeling and examine its application to human physiology."
+
+tags: [machine learning]
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'http://www.aaai.org/ocs/index.php/SSS/SSS11/paper/viewFile/2482/2900'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - inductive-process-modeling
+  - biomedical-informatica
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ''
+---

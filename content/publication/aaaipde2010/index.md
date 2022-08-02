@@ -1,0 +1,79 @@
+---
+title: 'Integrated Systems for Inducing Spatio-temporal Process Models'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - Chunki Park
+  - admin
+  - Pat Langley
+
+# Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+
+date: '2010-07-01'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['1']
+
+# Publication name and optional abbreviated publication name.
+publication: In *Proceedings of the Twenty-Fourth AAAI Conference on Artificial Intelligence*
+publication_short: AAAI
+
+abstract: "Quantitative modeling plays a key role in the natural sciences, and systems that address the task of inductive process modeling can assist researchers in explaining their data. In the past, such systems have been limited to data sets that recorded change over time, but many interesting problems involve both spatial and temporal dynamics. To meet this challenge, we introduce SCISM, an integrated intelligent system which solves the task of inducing process models that account for spatial and temporal variation. We also integrate SCISM with a constraint learning method to reduce computation during induction. Applications to ecological modeling demonstrate that each system fares well on the task, but that the enhanced system does so much faster than the baseline version."
+
+# Summary. An optional shortened abstract.
+summary: "In the past, inductive process modeling systems have been limited to data sets that recorded change over time, but many interesting problems involve both spatial and temporal dynamics. To meet this challenge, we introduce SCISM, an integrated intelligent system which solves the task of inducing process models that account for spatial and temporal variation."
+
+
+tags: [machine learning, PDEs, ecology]
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'http://isle.org/~langley/papers/process.aaai10.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - inductive-process-modeling
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ''
+---
