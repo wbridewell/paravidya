@@ -14,7 +14,7 @@ organizations:
     url: https://www.nrl.navy.mil
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the relationship between attention, cognition, and intentional action.
 
 # Interests to show in About widget
 interests:
